@@ -15,9 +15,9 @@
 //
 
 cc_library_static {
-    name: "libinit_star2qltechn",
+    name: "libinit_dream2qltechn",
     recovery_available: true,
-    srcs: ["init_star2qltechn.cpp"],
+    srcs: ["init_dream2qltechn.cpp"],
     include_dirs: [
         "system/core/base/include",
         "system/core/init"
