@@ -56,14 +56,14 @@ void property_override_dual(char const system_prop[], char const vendor_prop[],
 void vendor_load_properties()
 {
     // fingerprint
-    property_override("ro.build.description", "star2qltezh-user 10 QP1A.190711.020 G9650ZHU6DTD1 release-keys");
+    property_override("ro.build.description", "sdream2qlte-user 10 QP1A.190711.020 SC03JOMU1CSD2 release-keys");
     property_override_dual("ro.build.fingerprint", "ro.vendor.build.fingerprint", "google/walleye/walleye:8.1.0/OPM1.171019.011/4448085:user/release-keys");
 
     // privapp permisison control
     property_override("ro.control_privapp_permissions", "log");
     
-    property_override("ro.product.system.model", "BASIC");
-    property_override("ro.product.vendor.model", "BASIC");
-    property_override("ro.product.product.model", "BASIC");
-    property_override("ro.product.odm.model", "BASIC");
+    property_override("ro.product.system.model", "G955F");
+    property_override("ro.product.vendor.model", "G955F");
+    property_override("ro.product.product.model", "G955F");
+    property_override("ro.product.odm.model", "G955F");
 }
