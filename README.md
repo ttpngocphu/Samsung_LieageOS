@@ -1,1 +1,1 @@
-android_device_samsung_star2qltechn
+android_device_samsung_dream2qltechn
