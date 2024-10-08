@@ -1,7 +1,7 @@
 [
 	{
-    	"repository": "klabit87/android_device_samsung_sdm845-common",
-    	"target_path": "device/samsung/sdm845-common"
+    	"repository": "klabit87/android_device_samsung_sdm835-common",
+    	"target_path": "device/samsung/sdm835-common"
     	"remote": "github",
 		"revision": "lineage-17.1"
 	}
